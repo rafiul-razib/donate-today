@@ -170,3 +170,76 @@ footer p{
     font-size: 14px;
     color: lightgray;
 }
+
+.our-services{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    
+}
+
+.intro{
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./images/whatWeDo.jpg);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.quarter-width{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-1{
+    display: flex;
+    
+}
+.services-2{
+    display: flex;
+}
+
+
+
+.service-tile-1{
+    background-image: url(./images/emergency.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff
+}
+.service-tile-2{
+    background-image: url(./images/Medical.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff
+}
+.service-tile-3{
+    background-image: url(./images/humanity.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff
+}
+.service-tile-4{
+    background-image: url(./images/join.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff
+}
+
+.our-services{
+    margin-top: 100px;
+}
+
+.our-services h3{
+    font-size: 45px;
+    text-align: center;
+}
