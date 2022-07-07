@@ -185,10 +185,11 @@ footer p{
     background-position: center;
     background-size: cover;
     background-image: url(./images/whatWeDo.jpg);
-    color: #fff;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+   
 
 }
 
@@ -214,25 +215,25 @@ footer p{
     background-image: url(./images/emergency.jpg);
     background-position: center;
     background-size: cover;
-    color: #fff
+    color: #fff;
 }
 .service-tile-2{
     background-image: url(./images/Medical.jpg);
     background-position: center;
     background-size: cover;
-    color: #fff
+    color: #fff;
 }
 .service-tile-3{
     background-image: url(./images/humanity.jpg);
     background-position: center;
     background-size: cover;
-    color: #fff
+    color: #fff;
 }
 .service-tile-4{
     background-image: url(./images/join.jpg);
     background-position: center;
     background-size: cover;
-    color: #fff
+    color: #fff;
 }
 
 .our-services{
